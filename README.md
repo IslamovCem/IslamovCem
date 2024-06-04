@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 #snake 
 
 ![snake gif](https://github.com/islamovcem/islamovcem/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/islamovcem/islamovcem/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/islamovcem/islamovcem/blob/output/github-contribution-grid-snake2.svg)
