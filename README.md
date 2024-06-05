@@ -21,3 +21,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/islamovcem/islamovcem/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/islamovcem/islamovcem/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadIslamov)](https://leetcode.com/MuhammadIslamov)
+![](https://leetcard.jacoblin.cool/MuhammadIslamov?ext=contest)
