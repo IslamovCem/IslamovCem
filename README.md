@@ -49,3 +49,21 @@ Here are some ideas to get you started:
 | Jandro167 | **IslamovMuhammad** | win 🥇 | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
+
+[![ChessStats](https://chesscom-profile-svg.vercel.app/stats?username={Chess.com_Username}&theme={Theme}&borderRadius={Radius}](https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=dark">
+  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=graywhite">
+</picture>
+
+
+
+
+
+
+
+
+
+
+
