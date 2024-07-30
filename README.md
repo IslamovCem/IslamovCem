@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316clmjb4qfj3wxdrmwizfeadmh4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 **IslamovCem/IslamovCem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
