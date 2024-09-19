@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | duolingo-oscar-v1 | win 🥇 | 12/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1R4/8/1BQ5/4p3/4P3/7p/1P5P/4KBNR b - - 1 34">Link</a> | Daily |
 | Elliotisbadatchess12 | **IslamovMuhammad** | timeout ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p1p1p2p/1p6/3r3P/1PK5/P1P2n2/8/8 b - -">Link</a> | Bullet |
 | **IslamovMuhammad** | pAoOmG | win 🥇 | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1kbnr/ppp1pppp/2n5/3p4/8/1PP1P1P1/P2P1P1P/RNBQK1NR b KQkq -">Link</a> | Bullet |
 | hairulresky | **IslamovMuhammad** | timeout ❌ | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/p1p4p/1pP3p1/8/2R4q/2N5/PPPK2PP/8 b - -">Link</a> | Bullet |
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 | **IslamovMuhammad** | JigaSebastian | timeout ❌ | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/ppp1pp2/6p1/4b3/1K5r/P1NP4/1P1P4/q7 w - -">Link</a> | Blitz |
 | **IslamovMuhammad** | robinglass1 | checkmated ❌ | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/ppp2p2/6p1/2p1p2p/4n1b1/1P4N1/P1PP1q1P/RNQ1K2R w KQkq -">Link</a> | Blitz |
 | john_doe1939 | **IslamovMuhammad** | win 🥇 | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/ppp2p2/3pp2p/7r/PPP1N3/7K/7P/R7 w - -">Link</a> | Blitz |
-| Jandro167 | **IslamovMuhammad** | win 🥇 | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
