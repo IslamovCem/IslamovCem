@@ -31,21 +31,21 @@ Here are some ideas to get you started:
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 181 | 401 | 109 |
+| Current | 137 | 401 | 317 |
 | Best | No Rating | 431 | 261 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **IslamovMuhammad** | duolingo-oscar-v1 | win 🥇 | 12/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1R4/8/1BQ5/4p3/4P3/7p/1P5P/4KBNR b - - 1 34">Link</a> | Daily |
-| Elliotisbadatchess12 | **IslamovMuhammad** | timeout ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p1p1p2p/1p6/3r3P/1PK5/P1P2n2/8/8 b - -">Link</a> | Bullet |
-| **IslamovMuhammad** | pAoOmG | win 🥇 | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1kbnr/ppp1pppp/2n5/3p4/8/1PP1P1P1/P2P1P1P/RNBQK1NR b KQkq -">Link</a> | Bullet |
-| hairulresky | **IslamovMuhammad** | timeout ❌ | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/p1p4p/1pP3p1/8/2R4q/2N5/PPPK2PP/8 b - -">Link</a> | Bullet |
-| **IslamovMuhammad** | jambotforjam | timeout ❌ | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/2p1n1pp/p1p2p2/3pp3/8/2P1P1PN/PP1P1P1P/RNB1K2R w KQkq -">Link</a> | Bullet |
-| proneethgaddam | **IslamovMuhammad** | win 🥇 | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p1pp1ppp/1pn2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -">Link</a> | Bullet |
-| **IslamovMuhammad** | Carlnum | win 🥇 | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/8/4P2N/PPPP1PPP/RNBQKB1R b KQkq -">Link</a> | Blitz |
-| **IslamovMuhammad** | JigaSebastian | timeout ❌ | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/ppp1pp2/6p1/4b3/1K5r/P1NP4/1P1P4/q7 w - -">Link</a> | Blitz |
-| **IslamovMuhammad** | robinglass1 | checkmated ❌ | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/ppp2p2/6p1/2p1p2p/4n1b1/1P4N1/P1PP1q1P/RNQ1K2R w KQkq -">Link</a> | Blitz |
-| john_doe1939 | **IslamovMuhammad** | win 🥇 | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/ppp2p2/3pp2p/7r/PPP1N3/7K/7P/R7 w - -">Link</a> | Blitz |
+| **IslamovMuhammad** | Acmm944 | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp1bpQp/3q1n2/1b2p3/1P2P3/B2p1P1P/P4P2/RN2K1R1 b Q -">Link</a> | Bullet |
+| **IslamovMuhammad** | denvuur | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp4p/2np4/5b1p/8/P2q3P/P1p2PP1/R1B1K2R b - -">Link</a> | Bullet |
+| writer1966 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p6p/bp2k3/6BN/6p1/8/PPP2PPP/3R2K1 w - -">Link</a> | Bullet |
+| ihab123123123 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/4Rp1p/5K2/1p6/1Pk3P1/8/1P5P/R7 w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | assir_5 | timeout ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/ppp3pp/8/P2P1n2/1P4K1/3Q4/8/RNB1rB2 w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | RIIFAN | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p3ppp/2p2n2/p5B1/Q2qp2P/2b2bP1/PP2K3/3R1B1R w kq -">Link</a> | Rapid |
+| Alicecaglisse18 | **IslamovMuhammad** | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/p3Qp1p/8/2pNP1p1/4P3/3P4/q1PB1P1P/2R1K2R b Kkq -">Link</a> | Rapid |
+| **IslamovMuhammad** | QlsAdham | timeout ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/8/8/3K2q1/8/8/8 w - -">Link</a> | Rapid |
+| Lubuy7 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1pppp/8/8/b1pP4/6P1/PP2PP1P/RNB1KBNR w KQkq -">Link</a> | Rapid |
+| **IslamovMuhammad** | icarus_es | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/pp5p/2p3pQ/4P3/4p1b1/2Pq4/PP1P2PP/RNB2rKR w q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
