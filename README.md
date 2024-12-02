@@ -1,17 +1,17 @@
 
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
+ <summary><h2> <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
   <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
   - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
@@ -31,14 +31,14 @@
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/binarysolver)
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/binarysolver)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/parthjohri31/practice)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/parthjohri)
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/parthjohri31?hr_r=1)
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/IslamovCem31/practice)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/IslamovCem)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/IslamovCem31?hr_r=1)
 </details>
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -85,21 +85,21 @@
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-  #### <a href="https://github.com/ParthJohri/rm-whatsapp-bot">RMNotices</a>
+  #### <a href="https://github.com/IslamovCem/rm-whatsapp-bot">RMNotices</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
   - Implemented instant job alerts to notify users about new job opportunities, along with a **1-hour** reminder before the deadline for better organization and timely application submission. 
   - Accomplished a significant milestone of **500** daily users for RMNotices, surpassing initial projections aimed to add an extra **2,000** individuals to maximize user base potential. 
   - **Impact:** Maximized productivity by automating the notification process, eliminating manual monitoring and alerts, resulting in a **20%** reduction in Placement Coordinator’s workload.
 
-  #### <a href="https://github.com/ParthJohri/Lumos-Bot">Lumos Bot</a>
+  #### <a href="https://github.com/IslamovCem/Lumos-Bot">Lumos Bot</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>  
   - Developed a Whatsapp bot with features like interactive Q&A, company suggestions, job listings, real-time news, contest/hackathon updates, downloading YouTube/Facebook video, and providing 18 additional functionalities.
   - Boosted the daily user experience of **200** to **300** individuals with Lumos Whatsapp Bot.
   - **Impact:** Transformed user experience by incorporating various features, resulting in a remarkable **40%** increase in user engagement and a **25%** growth in active participation.
 
-#### <a href="https://github.com/ParthJohri/Google-AMD-Hackathon">Krishi Market</a>
+#### <a href="https://github.com/IslamovCem/Google-AMD-Hackathon">Krishi Market</a>
   <span>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
@@ -111,12 +111,12 @@
   - Innovated a web application which will reduce Farmers' dependency on Middlemen and help them sell their crops to retailers, wholesalers, and consumers at a better price. Not only this but this web app would help them to keep track of all their transactions.
   - **Impact:** Easy and Intuitive UI/UX which facilitated direct communication b/w farmers & consumers, with a secure Database and easy maintenance of all transaction records.
     
-  #### <a href="https://github.com/ParthJohri/Face-flix">Face-Flix</a>
+  #### <a href="https://github.com/IslamovCem/Face-flix">Face-Flix</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
   - Innovated a facial expression-based movie recommendation engine, amplifying user engagement by **30%** through personalized suggestions based on mood analysis.
   - **Impact:** Enhanced movie exploration, resulting in an increase in user satisfaction by **10%** to **30%**.
 
-  #### <a href="https://github.com/ParthJohri/Medicine-Tracker">Medicine Tracker</a>
+  #### <a href="https://github.com/IslamovCem/Medicine-Tracker">Medicine Tracker</a>
   <span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>  
   - Integrated ordering medicines, facts, and quotes to lighten up the user, light/dark mode, with the future plan of integrating notification system and Calorie/BMI calculator.
 </details>
@@ -125,7 +125,7 @@
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### Leetcode
   <div align="center">
@@ -145,10 +145,10 @@
   ### GitHub
   <div align="center">
 
-   ![](https://github-readme-stats.vercel.app/api?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthJohri&theme=tokyonight&hide_border=false)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=ParthJohri&theme=tokyo-night)
+   ![](https://github-readme-stats.vercel.app/api?username=IslamovCem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=IslamovCem&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamovCem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=IslamovCem&theme=tokyo-night)
 
   </div>
 </details>
@@ -157,26 +157,26 @@
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-  <a href="https://github.com/ParthJohri">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
+  <a href="https://github.com/IslamovCem">
+    <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/Github.gif" width="70"/>
   </a>
-  <a href="https://linkedin.com/in/parthjohri07">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+  <a href="https://linkedin.com/in/IslamovCem07">
+    <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.quora.com/profile/Parth-Johri-6">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
+    <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/Quora.gif" width="70"/>
   </a>
 </div>
 
   
 </details>
 
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
+## <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
  <i>You can reach out to me via</i> 
-&nbsp;<a href="mailto:contact.parthjohri@gmail.com">
-     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
+&nbsp;<a href="mailto:contact.IslamovCem@gmail.com">
+     <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
 
