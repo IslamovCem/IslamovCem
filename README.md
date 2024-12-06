@@ -1,4 +1,3 @@
-
 <h3 align="center">Top Artists of Playlist</h3>
 
 <div align="center">
@@ -22,12 +21,6 @@
     </a>
   </details>
 </div>
-
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
-</a>
-
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
