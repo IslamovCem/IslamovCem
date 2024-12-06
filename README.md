@@ -2,7 +2,8 @@
 ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDz_2M7ioJ_Cs85_PrSacpw&theme=dark)
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   <details>
     <summary>View Data Card for Spotify</summary>
