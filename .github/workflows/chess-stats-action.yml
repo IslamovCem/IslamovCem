@@ -10,6 +10,8 @@ jobs:
     name: Update readme with your chess stats and games
     runs-on: ubuntu-latest
     permissions:
+    SHOW_STATS: false
+SHOW_TIME_CLASS: false
       contents: write
     steps:
       - uses: actions/checkout@v3
