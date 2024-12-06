@@ -1,0 +1,25 @@
+name: Update Chess Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Fetch Chess.com Stats
+        run: |
+          curl https://api.chess.com/pub/player/IslamovMuhammad/stats > stats.json
+      - name: Update README
+        run: |
+          # Parse stats and generate Markdown
+          python update_readme.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git commit -am "Update chess stats"
+          git push
