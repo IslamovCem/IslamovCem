@@ -1,11 +1,6 @@
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
-| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
-|:---:|:---:|:---:|:---:|
-| Current | 583 | 323 | 355 |
-| Best | 441 | 431 | 261 |
-
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Vincent_ganyeng | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q3r/ppp1bk1p/6p1/3bn3/8/2N5/PPPP1PPP/R1B2RK1 w - -">Link</a> | Rapid |
