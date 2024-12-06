@@ -1,4 +1,6 @@
+<!--START_SECTION:chessStats-->
 
+<!--END_SECTION:chessStats-->
 
 <details>
  <summary><h2> <img align="center" src="https://github.com/IslamovCem/IslamovCem/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
