@@ -2,53 +2,6 @@
 ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDz_2M7ioJ_Cs85_PrSacpw&theme=dark)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://someapi.com/user/stats?username=yourusername&style=minimal">
-  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=Your_username&theme=graywhite">
-</picture>
-
-### Chess Stats
-<picture>
-<source media =  
-![Chess Stats](https://someapi.com/user/stats?username=yourusername&style=minimal)
-
-<picture>
-
-### Chess Stats
-![Chess Stats](https://someapi.com/user/stats?username=IslamovMuhammad&style=minimal)
-
-### Chess Performance
-![Chess Performance](https://someapi.com/user/ratings?username=IslamovMuhammad&style=graphical)
-
-
-
-### My Chess Profile
-![My Chess Stats](https://someapi.com/user/stats?username=IslamovMuhammad&style=profile)
-
-### Leaderboard Comparison
-![Chess Leaderboard](https://someapi.com/user/leaderboard?username=IslamovMuhammad)
-
-### Chess Stats (Custom Theme)
-![Custom Chess Stats](https://someapi.com/user/stats?username=IslamovMuhammad&theme=dark)
-
-### Game Results
-![Win/Loss Stats](https://someapi.com/user/winloss?username=IslamovMuhammad&style=piechart)
-
-### Recent Matches
-![Recent Matches](https://someapi.com/user/recentgames?username=IslamovMuhammad)
-
-### Time Control Performance
-![Time Control Stats](https://someapi.com/user/timecontrol?username=IslamovMuhammad)
-
-### Achievements
-![Chess Achievements](https://someapi.com/user/achievements?username=IslamovMuhammad)
-
-### Rating Progression
-![Rating Progression](https://someapi.com/user/ratingprogress?username=IslamovMuhammad&style=animated)
-
-<h3 align="center">Top Artists of Playlist</h3>
-
- <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ziehm6apuzanaqu7v5y7ruzdsy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 
 
   <details>
