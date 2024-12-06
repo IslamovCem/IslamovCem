@@ -2,7 +2,17 @@
 ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDz_2M7ioJ_Cs85_PrSacpw&theme=dark)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://someapi.com/user/stats?username=yourusername&style=minimal">
+  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=Your_username&theme=graywhite">
+</picture>
 
+### Chess Stats
+<picture>
+<source media =  
+![Chess Stats](https://someapi.com/user/stats?username=yourusername&style=minimal)
+
+<picture>
 
 ### Chess Stats
 ![Chess Stats](https://someapi.com/user/stats?username=IslamovMuhammad&style=minimal)
