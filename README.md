@@ -1,16 +1,21 @@
+![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UC6gSajTATNp4EBujVW1MuYg&theme=dark)
+![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDz_2M7ioJ_Cs85_PrSacpw&theme=dark)
+
+
+
+
+
+
+
+
 <h3 align="center">Top Artists of Playlist</h3>
 
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ziehm6apuzanaqu7v5y7ruzdsy&count=5">
-      </td>
-      <td>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ziehm6apuzanaqu7v5y7ruzdsy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
-      </td>
-    </tr>
-  </table>
+
+
+
+ <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ziehm6apuzanaqu7v5y7ruzdsy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+
 
   <details>
     <summary>View Data Card for Spotify</summary>
