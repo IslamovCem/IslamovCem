@@ -20,16 +20,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| kinglui7 | **IslamovMuhammad** | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N4r1k/pp4pp/8/3Bp3/5p2/5P1b/PP1B1bqP/Q6K w - - 0 21">Link</a> | Rapid |
-| GnarlsMcFrothingsly | **IslamovMuhammad** | checkmated ❌ | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1Q1/7R/8/8/5K2/8/8/8 b - - 18 56">Link</a> | Rapid |
-| **IslamovMuhammad** | Edmond2024 | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1r2/ppp2p1p/3p4/3P2B1/2qb4/6PQ/PP3P1P/R3R1K1 b - - 3 20">Link</a> | Rapid |
-| **IslamovMuhammad** | jahan707 | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k2r1/ppQ4p/3p4/3N1p2/7q/P7/1BP2PPP/R3R1K1 b - - 2 22">Link</a> | Rapid |
-| **IslamovMuhammad** | teenskk | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r1k/p1p4Q/2pp3p/3nP3/2N5/3B3P/P1P2PPK/q7 b - - 2 21">Link</a> | Rapid |
-| guveyi1 | **IslamovMuhammad** | checkmated ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k1R1/p4R2/8/1P2N1p1/3P3p/7P/6PK/r7 b - - 5 37">Link</a> | Rapid |
-| **IslamovMuhammad** | schotel2022 | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rkq1bnr/1p3pp1/3p2bp/pB1N4/2Q1P1P1/7P/PPP2P2/R1B2RK1 b - - 2 17">Link</a> | Rapid |
-| wmccluskey | **IslamovMuhammad** | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r4pk1/6p1/1R6/1K6/8/1P5p/8 w - - 0 46">Link</a> | Rapid |
-| **IslamovMuhammad** | wmccluskey | checkmated ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1pp1/2n4p/2bN4/4P3/8/PPP2qPP/R2QKBNR w KQkq - 0 9">Link</a> | Rapid |
-| krummholzer | **IslamovMuhammad** | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p4ppp/8/1q6/2K3Q1/2P1P3/1r4PP/8 w - - 0 32">Link</a> | Rapid |
+| **IslamovMuhammad** | Islamov09 | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/1P6/kQ6/2P2K1P/8 b - - 6 51">Link</a> | Rapid |
+| Islamov09 | **IslamovMuhammad** | checkmated ❌ | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/3Q2B1/8/4k3 b - - 58 100">Link</a> | Rapid |
+| Islamov09 | **IslamovMuhammad** | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2">Link</a> | Daily |
+| Islamov09 | **IslamovMuhammad** | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1kr4/ppp4p/6p1/3K4/3R4/1P1P4/P5PP/q3b3 w - - 7 24">Link</a> | Bullet |
+| **IslamovMuhammad** | Islamov09 | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2kr1/ppp2p1N/3p1B2/nB2P3/4P3/2P5/P1P2PPP/R2QK2R b KQ - 0 12">Link</a> | Bullet |
+| **IslamovMuhammad** | Condit99 | checkmated ❌ | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q5k/8/8/8/8/K7/8/r7 w - - 9 57">Link</a> | Rapid |
+| Islamov09 | **IslamovMuhammad** | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/p4p1p/2N3p1/3pQ3/6k1/2NK4/PPPq3P/R1b5 w - - 1 23">Link</a> | Rapid |
+| Islamov09 | **IslamovMuhammad** | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1p2ppp/8/1N2Q3/1b6/7P/PP1q1PP1/n2K3R w - - 0 18">Link</a> | Rapid |
+| **IslamovMuhammad** | Bilal412525 | checkmated ❌ | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7q/1kp5/b7/7K/8/8/2n5/6q1 w - - 4 47">Link</a> | Rapid |
+| manb24 | **IslamovMuhammad** | win 🥇 | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p4p/1p4pb/8/2P1QP2/6PP/1K6/3R4 w - - 6 38">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
